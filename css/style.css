@@ -7,6 +7,12 @@ Developed @ One Month in NYC
 
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
+* {
+	font-family: 'Balsamiq Sans', cursive;
+}
+
 body {
 	background: url('../images/Startup-to-IPO.png');
 	/* the follow is the code to have the image display as a full page */
